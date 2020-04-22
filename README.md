@@ -12,3 +12,5 @@ https://ldjam.com/events/ludum-dare/46/virulence
 
 ### Play in-browser on itch.io
 https://bibliophilia.itch.io/virulence
+
+<iframe frameborder="0" src="https://itch.io/embed/619432" width="552" height="167"><a href="https://bibliophilia.itch.io/virulence">Virulence by Bibliophilia</a></iframe>
